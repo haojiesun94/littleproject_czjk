@@ -1,0 +1,14 @@
+com/sun/entity/Result.class
+com/sun/pojo/CheckItem.class
+com/sun/pojo/CheckGroup.class
+com/sun/pojo/User.class
+com/sun/pojo/Member.class
+com/sun/pojo/Setmeal.class
+com/sun/pojo/Role.class
+com/sun/pojo/Permission.class
+com/sun/constant/MessageConstant.class
+com/sun/pojo/OrderSetting.class
+com/sun/entity/PageResult.class
+com/sun/pojo/Order.class
+com/sun/pojo/Menu.class
+com/sun/entity/QueryPageBean.class
