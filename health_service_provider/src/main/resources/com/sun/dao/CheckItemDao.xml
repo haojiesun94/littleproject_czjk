@@ -60,4 +60,10 @@
     <select id="findById" parameterType="int" resultType="com.sun.pojo.CheckItem">
         select * from t_checkitem where id = #{id}
     </select>
+
+    <select id="findAll" parameterType="int" resultType="com.sun.pojo.CheckItem">
+        select * from t_checkitem where id = #{id}
+    </select>
+
+
 </mapper>
